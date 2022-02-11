@@ -5,7 +5,7 @@ from sklearn.metrics import adjusted_rand_score as ari
 import numpy as np
 
 
-dataset = 'MovieLens1'   #DBLP, MovieLens1,MovieLens2, yelpTOR, yelpPGH
+dataset = 'DBLP'   #DBLP, MovieLens1,MovieLens2, yelpTOR, yelpPGH
 
 
 data_path = './datasets/tensors/'
